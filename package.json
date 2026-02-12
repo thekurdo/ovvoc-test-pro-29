@@ -1,0 +1,13 @@
+{
+  "name": "ovvoc-test-pro-29",
+  "version": "1.0.0",
+  "description": "React SPA with data router pattern (react-router-dom 6)",
+  "scripts": {
+    "test": "node test/router-config.test.js"
+  },
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-router-dom": "6.28.2"
+  }
+}
